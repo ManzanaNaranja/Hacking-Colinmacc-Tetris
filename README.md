@@ -2,4 +2,4 @@
 
 i am tafini
 
-![asd](./highscore.PNG)
+![asd](./highscoreEE.PNG)
